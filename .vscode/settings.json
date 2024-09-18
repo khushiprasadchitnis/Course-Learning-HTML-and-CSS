@@ -7,7 +7,10 @@
         "**/.DS_Store": true,
         "**/Thumbs.db": true,
         "set_env.sh": true,
-        ".envrc": true
+        ".envrc": true,
+        ".config": true,
+        ".cache": true,
+        ".local": true
     },
     "explorerExclude.backup": {}
 }

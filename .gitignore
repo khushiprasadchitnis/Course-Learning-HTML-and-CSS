@@ -9,3 +9,4 @@ set_env.sh
 *.swp
 
 .gitconfig
+.config/gh/hosts.yml
