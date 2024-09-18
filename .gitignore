@@ -5,3 +5,7 @@ Library/
 set_env.sh
 .envrc
 
+.viminfo
+*.swp
+
+.gitconfig
