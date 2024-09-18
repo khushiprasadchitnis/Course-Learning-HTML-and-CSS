@@ -1,0 +1,7 @@
+{
+    "recommendations": [
+        "peterschmalfeldt.explorer-exclude",
+        "esbenp.prettier-vscode",
+        "ms-vscode.live-server"
+    ]
+}
